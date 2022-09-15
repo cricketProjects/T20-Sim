@@ -1,14 +1,4 @@
-To run the simulation, there are two ways :-
-
-1) Easier way -
-
-Step 1 - Download the zip file folder T20_sim_S01_exe
-Step 2 - Extract all
-Step 3 - Run (Double - click) SIMULATION_exe exe/application file from the folder
-
-For subsequent running of sim, just run SIMULATION_exe like any other application.
-
-2) More efficient way - With python
+To run the simulation :-
 
 Running it for first time,
 
