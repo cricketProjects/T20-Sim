@@ -8,6 +8,6 @@ if __name__ == '__main__':
     while(a == True):
         main()
         print()
-        end1 = input('Type "q" to quit or any other key to continue.')
-        a = ('q'.lower()== end1.lower())
+        end1 = input('Type "q" to quit or any other key to continue\n')
+        a = ('q'.lower()!= end1.lower())
     print()
