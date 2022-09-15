@@ -10,4 +10,5 @@ if __name__ == '__main__':
         print()
         end1 = input('Type "q" to quit or any other key to continue\n')
         a = ('q'.lower()!= end1.lower())
-    print()
+        print()
+
